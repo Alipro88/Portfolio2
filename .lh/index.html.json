@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 10,
+            "activePatchIndex": 11,
             "patches": [
                 {
                     "date": 1707398108554,
@@ -48,6 +48,10 @@
                 {
                     "date": 1707398382831,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -862,8 +862,9 @@\n                             </div>\r\n                           </div>\r\n                           <p>TECHNOLOGIES USED : <br>\r\n                             _#Laravel <br>\r\n+                            _#Laravel <br>\r\n                             _#MYSQL<br>\r\n                             _#BOOTSTRAP ,<br>\r\n                             _#HTML , #CSS , #JS ,<br>\r\n                             \r\n"
+                },
+                {
+                    "date": 1709217373181,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -621,10 +621,30 @@\n                       <!-- description end -->\r\n \r\n                     </div>\r\n                     <!-- grid item end -->\r\n-                    \r\n+                    <!-- grid item -->\r\n+                    <div class=\"art-grid-item webTemplates\">\r\n+                      <!-- grid item frame -->\r\n+                      <a data-fancybox=\"gallery\" href=\"img/Capture d’écran 2022-05-09 150743.png\" class=\"art-a art-portfolio-item-frame art-horizontal\">\r\n+                        <!-- img -->\r\n+                        <img src=\"img/Capture d’écran 2022-05-09 150743.png\" alt=\"item\">\r\n+                        <!-- zoom icon -->\r\n+                        <span class=\"art-item-hover\"><i class=\"fas fa-expand\"></i></span>\r\n+                      </a>\r\n+                      <!-- grid item frame end -->\r\n+                      <!-- description -->\r\n+                      <div class=\"art-item-description\">\r\n+                        <!-- title -->\r\n+                        <h5 class=\"mb-15\">Web Site (HTML & CSS)</h5>\r\n+                        <!-- button -->\r\n+                        <a href=\"https://github.com/Alipro88/FirstProject.git\" target=\"_blank\" class=\"art-link art-color-link art-w-chevron\">Read more</a>\r\n+                      </div>\r\n+                      <!-- description end -->\r\n \r\n+                    </div>\r\n+                    <!-- grid item end -->\r\n+\r\n                     <!-- grid item -->\r\n                     <div class=\"art-grid-item logos\">\r\n                       <!-- grid item frame -->\r\n                       <a data-fancybox=\"gallery\" href=\"img/127.0.0.1_8000_createRead.png\" class=\"art-a art-portfolio-item-frame art-horizontal\">\r\n"
                 }
             ],
             "date": 1707398108554,
